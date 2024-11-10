@@ -6,6 +6,8 @@ Code](https://arxiv.org/abs/2107.03374)". Though this is not an exact replicatio
 
 ![Reflexion](https://github.com/noahshinn/reflexion/raw/main/figures/reflexion_rl.png)
 
+This repo adapts code heavily from the [human_eval repo](https://github.com/openai/human-eval) by openAI. So, kudos to them for making evaluating on humaneval this easy.
+
 
 ## Installation
 
@@ -22,8 +24,6 @@ $ pip install -e human-eval
 ```
 
 ## Usage
-
-
 
 **Run Reflection**
 ```
